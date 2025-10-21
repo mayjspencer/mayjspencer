@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <a href="mayjspencer@gmail.com.com">
+  <a href="mailto:mayjspencer@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/spencer-j-may/" target="_blank">
