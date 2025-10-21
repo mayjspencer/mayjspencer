@@ -3,7 +3,7 @@
 
 - I’m currently mastering data structures and algorithms, working with AI tools, and searching for careers in tech.
 - I prefer to use Python, but have experience with C++, Java, TypeScript, Javascript, and SQL.
-- I have also professional work experience with tools like Docker, Linux, Postman, VSCode, and more.
+- I have also professional work experience with tools like Docker, Linux, Postman, VSCode, Make, Excel, and more.
 
 <br>
 
