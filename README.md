@@ -1,5 +1,5 @@
 
-### Hi! I'm a Computer Science graduate from the University of Oklahoma
+### Hi! I'm a Computer Science graduate from the University of Oklahoma.
 
 - I’m currently mastering data structures and algorithms, working with AI tools, and searching for careers in tech.
 - I prefer to use Python, but have experience with C++, Java, TypeScript, Javascript, and SQL.
