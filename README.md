@@ -3,6 +3,7 @@
 
 - I’m currently mastering data structures and algorithms, working with AI tools, and searching for careers in tech.
 - I prefer to use Python, but have experience with C++, Java, TypeScript, Javascript, and SQL.
+- I have also professional work experience with tools like Docker, Linux, Postman, VSCode, and more.
 
 <br>
 
@@ -14,3 +15,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
    </a>
 </div>
+
+## 🛠️ Languages and Tools That I've Worked With
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,ts,react,nim,npm,powershell,vscode,windows,linux,mysql,flask" />
+  <img src="https://skillicons.dev/icons?i=python,js,git,github,gitlab,postman,cpp,css,html,docker,eclipse" />
+</p>
